@@ -20,7 +20,7 @@ body {
   background-attachment: fixed;
   color: white;
   font-family: Quicksand, sans-serif;
-  overflow-y: hidden;
+  overflow-y: auto;
 }
 
 h1 {
